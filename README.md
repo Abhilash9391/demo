@@ -1,3 +1,3 @@
 # demo
 this is my first git repository
-hello everyone
+hello everyone lets check 
